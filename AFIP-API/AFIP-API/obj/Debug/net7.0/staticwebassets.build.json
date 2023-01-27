@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6GkAI/mMnxw2dm4DOBCxU2qJDPhzCZMzAFnCfhcVIyo=",
+  "Source": "AFIP-API",
+  "BasePath": "_content/AFIP-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

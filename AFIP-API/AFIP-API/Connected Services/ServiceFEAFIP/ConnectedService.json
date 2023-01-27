@@ -1,0 +1,23 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://servicios1.afip.gov.ar/wsfev1/service.asmx?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, ServiceFEAFIP"
+    ],
+    "references": [
+      "Microsoft.AspNetCore.OpenApi, {Microsoft.AspNetCore.OpenApi, 7.0.0}",
+      "Microsoft.OpenApi, {Microsoft.OpenApi, 1.4.3}",
+      "Swashbuckle.AspNetCore.Swagger, {Swashbuckle.AspNetCore.Swagger, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerGen, {Swashbuckle.AspNetCore.SwaggerGen, 6.4.0}",
+      "Swashbuckle.AspNetCore.SwaggerUI, {Swashbuckle.AspNetCore.SwaggerUI, 6.4.0}"
+    ],
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}

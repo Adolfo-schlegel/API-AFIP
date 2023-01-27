@@ -1,0 +1,15 @@
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\bin\Debug\net7.0\BuilderPatternExample.exe
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\bin\Debug\net7.0\BuilderPatternExample.deps.json
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\bin\Debug\net7.0\BuilderPatternExample.runtimeconfig.json
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\bin\Debug\net7.0\BuilderPatternExample.dll
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\bin\Debug\net7.0\BuilderPatternExample.pdb
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.csproj.AssemblyReference.cache
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.AssemblyInfoInputs.cache
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.AssemblyInfo.cs
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.csproj.CoreCompileInputs.cache
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.dll
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\refint\BuilderPatternExample.dll
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.pdb
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\BuilderPatternExample.genruntimeconfig.cache
+D:\Proyectos\PatternDesignExamples\BuilderPatternExample\BuilderPatternExample\obj\Debug\net7.0\ref\BuilderPatternExample.dll
